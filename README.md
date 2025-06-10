@@ -105,4 +105,4 @@ Results from the model training and evaluation are saved in the respective hospi
 
 ## Acknowledgments
 
-[Acknowledgments for data sources, collaborators, etc.] 
+The data collection was performed in accordance with the Declaration of Helsinki, and approved by the Ethics Committee of Tongji Medical College, Huazhong University of Science and Technology. The raw data are available in the OMIX database under accession number OMIX010068, and can be accessed upon reasonable request under controlled conditions.
